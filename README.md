@@ -6,7 +6,7 @@ Open Engineer Energy Drink.
 材料(分量: 1l) :honey_pot:
 ------
 
-* 炭酸水 750ml
+* 鴨川の水 750ml
 * フレーバーシロップ(メロン) 250 ml
 * カフェイン(錠剤) 600mg
 * スッポン粉末 350mg
